@@ -21,4 +21,4 @@ The analysis involves several steps using Python libraries such as **Pandas**, *
 5. **Visualization**: Interactive visualizations using **Plotly** are created to present the findings in an engaging manner.
 
 ## Result
-The analysis reveals significant insights into user activity patterns, including average daily steps and the impact of sedentary behavior on overall health. For a detailed view of the analysis and visualizations, you can access the [Jupyter Notebook here](https://nbviewer.jupyter.org/github/yourusername/yourrepository/blob/main/Smartwatch_Data_Analysis.ipynb).
+The analysis reveals significant insights into user activity patterns, including average daily steps and the impact of sedentary behavior on overall health. For a detailed view of the analysis and visualizations, you can access the [Jupyter Notebook here](https://nbviewer.org/github/rijul007/Smartwatch-Data-Analysis-using-Python/blob/master/Smartwatch-Data-Analysis-using-Python.ipynb).
